@@ -18,7 +18,7 @@ function App() {
         <ThemeSwitcher/>
       </PageStateProvider>
     </ThemeStateProvider>
-  );
+  )
 }
 
 export default App
